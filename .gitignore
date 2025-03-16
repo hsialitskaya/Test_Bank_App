@@ -1,0 +1,29 @@
+htmlcov/
+
+# Ignore Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+*.venv
+Pipfile.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+debug.log
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
