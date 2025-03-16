@@ -7,6 +7,7 @@ MoneyManager is a Python-based application designed to manage personal and corpo
 MoneyManager is built using the following technologies:
 
 📍 Python   
+📍 Gherkin
 📍 unittest  
 📍 parameterized  
 📍 flask (for any future API)  
